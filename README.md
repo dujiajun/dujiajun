@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on the Vibe Coding application at Zhipu.AI since March 2025. Prior to that, I spent two years with the TikTok Growth Team.
+
+- 🌱 I’m currently learning system architecture for LLM applications, with a focus on designing robust and high-throughput AI agent systems for production environments.
+
+- ⚡ Fun fact: I’m actually more practical in user growth operations for content-oriented communities than in coding. I’ve independently built two communities from scratch, each with over 30,000 users.
+
 <!--
 **dujiajun/dujiajun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
