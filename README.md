@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the AI Coding application at Zhipu.AI since March 2025. Prior to that, I spent two years with the TikTok Growth Team.
+- 🔭 I’m currently working as backend developer on AI Coding application at Zhipu(Z.AI) since March 2025. Prior to that, I spent two years with the TikTok Growth Team.
 
 - 🌱 I’m currently learning system architecture for LLM applications, with a focus on designing robust and high-throughput AI agent systems for production environments.
 
